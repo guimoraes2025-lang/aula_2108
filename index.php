@@ -11,7 +11,7 @@
     <header><h1>Formulários em PHP</h1></header>
     <nav></nav>
     <main>
-        <form action="Aula3.php" method="POST">
+        <form action="index.php" method="POST">
             <table>
                 <tr><td>Nome:</td><td><input type="text" name="nome"></td></tr>
                 <tr><td>Matrícula:</td><td><input type="number" name="num"></td></tr>
